@@ -1,8 +1,6 @@
 <div align="center">
 
-# VoidGram
-
-**Your Instagram. Your desktop. Your rules.**
+![VoidGram](./assets/readme-banner.png)
 
 ![Latest Release](https://img.shields.io/github/v/release/REMvisual/VoidGram-releases?label=latest&color=ffb800)
 ![Downloads](https://img.shields.io/github/downloads/REMvisual/VoidGram-releases/total?color=22c55e)
