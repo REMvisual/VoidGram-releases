@@ -25,6 +25,8 @@ VoidGram is a desktop application that lets you create, schedule, and publish In
 - **Post anything** -- images, reels, stories, and multi-image posts, all from one interface
 - **Schedule posts** -- pick any date and time; posts publish automatically, even while you sleep
 - **Auto story reposter** -- when someone mentions you in their story, VoidGram can repost it to your own story automatically, within safety limits you control
+- **Unified inbox & Inbound hub** -- read your Instagram DMs and see everything that comes in -- story mentions, automated reposts, and collaboration invites -- in one place, each with clear status on what fired and when
+- **Collaboration invites** -- VoidGram detects when someone invites you to co-author a post and lets you accept it right from the Inbound hub
 - **Collaborator tagging** -- invite collaborators directly from the post form
 - **User tags and location tagging** -- tag people in photos and add locations to any post
 - **Text overlays on stories** -- add styled text to story images without a separate editor
@@ -32,6 +34,7 @@ VoidGram is a desktop application that lets you create, schedule, and publish In
 - **Built-in setup wizard** -- guided configuration from first launch to first post, no technical knowledge required
 - **Auto-updates** -- the app checks for new versions and updates itself in the background
 - **Private by design** -- your account tokens, post history, and media never leave your computer
+- **Mobile companion (in development)** -- a native mobile app to drive your VoidGram from your phone is on the way
 
 ## Download
 
