@@ -82,8 +82,7 @@ Found a security issue? Please report it responsibly by [opening an issue](https
 
 VoidGram is free and always will be. If it saves you time, consider supporting continued development:
 
-- [Patreon](https://patreon.com/remrepo)
-- [Gumroad](https://remrepo.gumroad.com)
+- [REMrepo](https://remrepo.com)
 
 ## License
 
